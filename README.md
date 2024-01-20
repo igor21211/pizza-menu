@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+this is simple app  ![Selection_1539](https://github.com/igor21211/pizza-menu/assets/86198126/43e22411-1b90-4d73-ba19-8034a500dd2b)
+
 
 ## Available Scripts
 
